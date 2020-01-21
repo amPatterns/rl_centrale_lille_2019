@@ -6,4 +6,7 @@ Intructions
 * Save a copy of the notebook in your Google drive (File -> Save file to drive).
 
  
+Solution
+---------------
 
+* See https://github.com/yfletberliac/rlss-2019/blob/dev/labs/DRL.01.REINFORCE%2BA2C_solution.ipynb

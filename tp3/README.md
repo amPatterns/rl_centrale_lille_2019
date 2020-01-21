@@ -7,3 +7,8 @@ Intructions
 
  
 
+Solution
+---------------
+
+* See https://github.com/yfletberliac/rlss-2019/blob/dev/labs/DRL.02.DQN_solution.ipynb
+
